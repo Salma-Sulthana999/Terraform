@@ -1,6 +1,6 @@
-access_key      = ""
-secret_key      = ""
-region          = ""
+access_key      = "AKIAU4V5SMVQ7FVPANUF"
+secret_key      = "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"
+region          = "ap-south-1"
 
 
 instance_type   = "t2.medium"
