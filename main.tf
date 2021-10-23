@@ -11,7 +11,7 @@ resource "aws_instance" "myinstance" {
   subnet_id       = var.subnet
   security_groups = [var.security_group]
   key_name        = var.instance_key
-  vpc             = var.vpc
+  #vpc             = var.vpc
 
   tags = {
     Name      = "myec2-instances"
