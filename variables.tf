@@ -8,4 +8,4 @@ variable "instance_ami"   {}
 variable "instance_key"   {}
 variable "security_group" {}
 variable "subnet"         {}
-variable "vpc"            {}
+#variable "vpc"            {}
